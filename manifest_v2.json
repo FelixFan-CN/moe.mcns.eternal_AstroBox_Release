@@ -15,12 +15,12 @@
     "cover": "1.png",
     "author": [
       {
-        "name": "缄雨默",
+        "name": "GoldOrca",
         "bindABAccount": true
       },
       {
         "name": "B4QAQ",
-        "bindABAccount": false
+        "bindABAccount": true
       }
     ]
   },
