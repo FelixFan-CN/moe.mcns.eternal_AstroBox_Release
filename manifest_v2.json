@@ -27,58 +27,58 @@
   "links": [
     {
       "icon": "link-simple-horizontal",
-      "title": "购买链接",
-      "url": "https://www.ifdian.net/item/6b7b6e1af1fc11f081c352540025c377"
+      "title": "官方文档",
+      "url": "https://docs.b4qaq.cn/docs/eternal/"
     }
   ],
   "downloads": {
     "xmws3": {
-      "version": "260718.5",
-      "file_name": "moe.mcns.Eternal.release.260718.5.rpk"
+      "version": "260812.2",
+      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
     },
     "xmws4": {
-      "version": "260718.5",
-      "file_name": "moe.mcns.Eternal.release.260718.5.rpk"
+      "version": "260812.2",
+      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
     },
     "xmws4xring": {
-      "version": "260718.5",
-      "file_name": "moe.mcns.Eternal.release.260718.5.rpk"
+      "version": "260812.2",
+      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
     },
     "xmrw5": {
-      "version": "260718.5",
-      "file_name": "moe.mcns.Eternal.release.260718.5.rpk"
+      "version": "260812.2",
+      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
     },
     "xmb10p": {
-      "version": "260718.5",
-      "file_name": "moe.mcns.Eternal.release.260718.5.rpk"
+      "version": "260812.2",
+      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
     },
     "xmrw5xring": {
-      "version": "260718.5",
-      "file_name": "moe.mcns.Eternal.release.260718.5.rpk"
+      "version": "260812.2",
+      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
     },
     "xmws5": {
-      "version": "260718.5",
-      "file_name": "moe.mcns.Eternal.release.260718.5.rpk"
+      "version": "260812.2",
+      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
     },
     "xmrw6": {
-      "version": "260718.5",
-      "file_name": "moe.mcns.Eternal.release.260718.5.rpk"
+      "version": "260812.2",
+      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
     },
     "xmb9p": {
-      "version": "260718.5",
-      "file_name": "moe.mcns.Eternal.release.260718.5.rpk"
+      "version": "260812.2",
+      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
     },
     "xmb10nfc": {
-      "version": "260718.5",
-      "file_name": "moe.mcns.Eternal.release.260718.5.rpk"
+      "version": "260812.2",
+      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
     },
     "xmb10": {
-      "version": "260718.5",
-      "file_name": "moe.mcns.Eternal.release.260718.5.rpk"
+      "version": "260812.2",
+      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
     },
     "xmws441": {
-      "version": "260718.5",
-      "file_name": "moe.mcns.Eternal.release.260718.5.rpk"
+      "version": "260812.2",
+      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
     }
   },
   "ext": {}
