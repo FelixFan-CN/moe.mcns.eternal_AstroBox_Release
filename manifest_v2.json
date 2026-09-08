@@ -3,7 +3,7 @@
     "id": "moe.mcns.Eternal",
     "restype": "quick_app",
     "name": "永昼天气",
-    "description": "Eternal永昼天气是一个可独立使用的适配小米Vela系统的天气快应用，支持多达20余种数据的获取，用户可自定义布局与数据，采取买断��[...]",
+    "description": "Eternal永昼天气是一个可独立使用的适配小米Vela系统的天气快应用，此次更新适配了API v3，建议尽快更新",
     "preview": [
       "2.png",
       "3.png",
@@ -33,52 +33,52 @@
   ],
   "downloads": {
     "xmws3": {
-      "version": "260812.2",
-      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
+      "version": "260905.3",
+      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
     },
     "xmws4": {
-      "version": "260812.2",
-      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
+      "version": "260905.3",
+      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
     },
     "xmws4xring": {
-      "version": "260812.2",
-      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
+      "version": "260905.3",
+      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
     },
     "xmrw5": {
-      "version": "260812.2",
-      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
+      "version": "260905.3",
+      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
     },
     "xmb10p": {
-      "version": "260812.2",
-      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
+      "version": "260905.3",
+      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
     },
     "xmrw5xring": {
-      "version": "260812.2",
-      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
+      "version": "260905.3",
+      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
     },
     "xmws5": {
-      "version": "260812.2",
-      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
+      "version": "260905.3",
+      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
     },
     "xmrw6": {
-      "version": "260812.2",
-      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
+      "version": "260905.3",
+      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
     },
     "xmb9p": {
-      "version": "260812.2",
-      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
+      "version": "260905.3",
+      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
     },
     "xmb10nfc": {
-      "version": "260812.2",
-      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
+      "version": "260905.3",
+      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
     },
     "xmb10": {
-      "version": "260812.2",
-      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
+      "version": "260905.3",
+      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
     },
     "xmws441": {
-      "version": "260812.2",
-      "file_name": "moe.mcns.Eternal.release.260812.2.rpk"
+      "version": "260905.3",
+      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
     }
   },
   "ext": {}
