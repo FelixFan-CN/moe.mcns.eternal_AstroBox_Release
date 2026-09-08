@@ -3,7 +3,7 @@
     "id": "moe.mcns.Eternal",
     "restype": "quick_app",
     "name": "永昼天气",
-    "description": "Eternal永昼天气是一个可独立使用的适配小米Vela系统的天气快应用，此次更新适配了API v3，建议尽快更新",
+    "description": "Eternal永昼天气是一个可独立使用的适配小米Vela系统的天气快应用，支持多达20余种数据的获取，用户可自定义布局与数据，采取买断或免费体验等多种付费方式，由MCNS开发与制作，这次更新适配了API v3，建议所有用户尽快更新",
     "preview": [
       "2.png",
       "3.png",
@@ -26,59 +26,143 @@
   },
   "links": [
     {
-      "icon": "link-simple-horizontal",
       "title": "官方文档",
-      "url": "https://docs.b4qaq.cn/docs/eternal/"
+      "url": "https://docs.b4qaq.cn/docs/eternal/",
+      "icon": "link-simple-horizontal"
     }
   ],
   "downloads": {
     "xmws3": {
       "version": "260905.3",
-      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
     },
     "xmws4": {
       "version": "260905.3",
-      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
     },
     "xmws4xring": {
       "version": "260905.3",
-      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
     },
     "xmrw5": {
       "version": "260905.3",
-      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
     },
     "xmb10p": {
       "version": "260905.3",
-      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
     },
     "xmrw5xring": {
       "version": "260905.3",
-      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
     },
     "xmws5": {
       "version": "260905.3",
-      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
     },
     "xmrw6": {
       "version": "260905.3",
-      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
     },
     "xmb9p": {
       "version": "260905.3",
-      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
     },
     "xmb10nfc": {
       "version": "260905.3",
-      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
     },
     "xmb10": {
       "version": "260905.3",
-      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
     },
     "xmws441": {
       "version": "260905.3",
-      "file_name": "moe.mcns.Eternal.release.260905.3.rpk"
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
     }
   },
   "ext": {}
