@@ -9,10 +9,10 @@
       "3.png",
       "4.png",
       "5.png",
-      "终了.png"
+      "media/终了 (1).png"
     ],
     "icon": "logo.png",
-    "cover": "1.png",
+    "cover": "media/1.png",
     "author": [
       {
         "name": "GoldOrca",
@@ -154,6 +154,39 @@
       ]
     },
     "xmws441": {
+      "version": "260905.3",
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "260905.3",
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "260905.3",
+      "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
+      "versionCode": 39,
+      "updatelogs": [
+        {
+          "version": "260905.3",
+          "content": "这次更新适配了MingCheng API v3.0以带来更好的体验，建议尽快更新"
+        }
+      ]
+    },
+    "xmws541": {
       "version": "260905.3",
       "file_name": "downloads/moe.mcns.Eternal.release.260905.3.rpk",
       "versionCode": 39,
